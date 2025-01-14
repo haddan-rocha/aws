@@ -1,0 +1,6 @@
+# Ignore o diretório .terraform
+.terraform/
+# Arquivos de estado do Terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
